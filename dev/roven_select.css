@@ -66,8 +66,8 @@
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-transition: 0.5s;
-  transition: 0.5s;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
 }
 .roven--select .roven--select_title .roven--select_arrow .roven--select_arrow_line {
   width: 2px;
